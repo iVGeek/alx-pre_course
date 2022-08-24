@@ -1,2 +1,1 @@
-My first readme
-This readme file is now up to date.
+Remember the first readme file? It is now updated.
